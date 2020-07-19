@@ -1,16 +1,16 @@
-### Hi there 👋
+### About
 
-<!--
-**huyuanxin1999/huyuanxin1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  **Learning :** Full-Stack Development
+-  **Languages :** Go, C++, Java
+-  **Hobbies :** Articles & Music :headphones:
+-  **Fact :** First solve the problem, then write the code :heart: 
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![github stats](https://github-readme-stats.vercel.app/api?username=huyuanxin1999&show_icons=true)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+⭐️ From [YuanXin Hu](https://github.com/huyuanxin1999)
+
