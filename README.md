@@ -1,6 +1,6 @@
 ### About
 
--  **Learning :** Full-Stack Development
+-  **Learning :** BackEnd Development
 -  **Languages :** Go, C++, Java
 -  **Hobbies :** Articles & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
